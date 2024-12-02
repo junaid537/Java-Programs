@@ -1,0 +1,7 @@
+1) Full Binary Tree *********
+either has 0 or 2 children
+2) Completre Binary Tree
+all levels completely filled exceept last level,  the last level has nodes as left as possible
+3)Perfect Binary tree 
+all leaf nodes at same level
+4)Balanced BT:height :log(n)
